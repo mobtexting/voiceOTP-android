@@ -71,7 +71,6 @@ public class MobtextingService {
                                 verificationInterface.onSuccesResponse(response.body());
                             }else{
                                 verificationInterface.onErrorResponse(response.body());
-
                             }
                         }else{
                             try{
