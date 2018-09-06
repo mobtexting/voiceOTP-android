@@ -13,7 +13,7 @@ allprojects {
 **Step 2.** Add the dependency
 ```java
 dependencies {
-  implementation 'com.github.mobtexting:voiceOTP-android:3638bf3f39'
+  implementation 'com.github.mobtexting:voiceOTP-android:v1.0.0'
 }
 ```
 **Step 3.** Add Internet Permisssion in Manifest
